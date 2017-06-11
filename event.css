@@ -1,0 +1,18 @@
+h3 {
+
+  font-family: monospace;
+}
+h1 {
+    background-color: #45991D;
+    padding-left: 150px;
+    display: block;
+    width: 375px;
+    margin-left: 20px;
+    color: white;
+
+}
+img{
+  width: 150px;
+  height: 150px;
+  margin-left: 200px;
+}

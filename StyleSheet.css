@@ -1,0 +1,63 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+header {
+  padding: 5px;
+  display: block;
+  width: 790px;
+}
+
+h1,h2 {
+  border-style: dotted;
+  font-family: cursive;
+  background-color: 45991d;
+  text-align: center;
+}
+
+
+nav {
+
+  line-height:;
+  background-color:;
+  width:100px;
+  display: inline-block;
+  vertical-align: left;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+a {
+    color: ;
+}
+
+section {
+  width: 516px;
+  display: inline-block;
+}
+
+aside {
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  background-color:;
+  font-size: ;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+footer {
+  width: 790px;
+  background-color:;
+  text-align:;
+  padding:5px;
+  display: block;
+}
